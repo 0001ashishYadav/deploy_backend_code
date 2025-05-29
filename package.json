@@ -1,0 +1,16 @@
+{
+  "name": "deploy_backend_code",
+  "version": "1.0.0",
+  "description": "starting learn backend",
+  "license": "ISC",
+  "author": "ashish_yadav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ]
+}
